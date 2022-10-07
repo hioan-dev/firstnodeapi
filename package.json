@@ -1,0 +1,24 @@
+{
+  "name": "firstnodejs",
+  "version": "1.0.0",
+  "description": "rest api app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hioan-dev/firstnodeapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "oans_nb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hioan-dev/firstnodeapi/issues"
+  },
+  "homepage": "https://github.com/hioan-dev/firstnodeapi#readme"
+}
