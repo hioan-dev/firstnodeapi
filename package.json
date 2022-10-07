@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/hioan-dev/firstnodeapi/issues"
   },
-  "homepage": "https://github.com/hioan-dev/firstnodeapi#readme"
+  "homepage": "https://github.com/hioan-dev/firstnodeapi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
 }
